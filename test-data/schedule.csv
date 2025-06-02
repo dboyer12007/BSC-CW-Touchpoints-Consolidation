@@ -1,0 +1,13 @@
+Date,End Time,Status,Customer,Employee,Position
+4/20/25 06:30,4/20/25 08:30,Completed,"Bonds, Barry","One, Aide",HHA
+4/20/25 09:00,4/20/25 17:00,Completed,"Bonds, Barry","Two, Nurse",RN
+4/22/25 06:30,4/22/25 08:30,Completed,"Bonds, Barry","One, Aide",HHA
+4/22/25 09:00,4/22/25 17:00,Completed,"Bonds, Barry","Two, Nurse",RN
+4/24/25 06:30,4/24/25 08:30,Assigned,"Bonds, Barry","One, Aide",HHA
+4/24/25 09:00,4/24/25 17:00,Assigned,"Bonds, Barry","Two, Nurse",RN
+4/1/25 06:30,4/1/25 08:30,Completed,"Ramirez, Manny","Three, Aide",HHA
+4/1/25 09:00,4/1/25 17:00,Completed,"Ramirez, Manny","Four, Nurse",LPN
+4/7/25 06:30,4/7/25 08:30,Completed,"Ramirez, Manny","Three, Aide",HHA
+4/7/25 09:00,4/7/25 17:00,Completed,"Ramirez, Manny","Four, Nurse",LPN
+4/1/25 06:30,4/1/25 08:30,Completed,"Griffey, Ken","Three, Aide",HHA
+4/1/25 09:00,4/1/25 17:00,Completed,"Griffey, Ken","Four, Nurse",LPN

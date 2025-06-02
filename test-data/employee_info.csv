@@ -1,0 +1,10 @@
+﻿Textbox28,Textbox29,Textbox132,Textbox59,Textbox133,Textbox54
+Report Date:  4/23/2025,Location(s):,OH - Cuyahoga West,Status(es):,"Active, Active - Expired Credentials"
+,,,,,
+emEmployeeId,firstName,lastName,PhoneNumber,StatusType,EmployeePosition
+111,Aide,One,111-111-1111,Active,HHA
+111,Aide,One,111-111-1111,Active,RA
+222,Nurse,Two,222-222-2222,Active,RN
+333,Aide,Three,333-333-3333,Active,HHA
+444,Nurse,Four,444-444-4444,Active,RN
+444,Nurse,Four,444-444-4444,Active,LPN
