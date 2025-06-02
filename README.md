@@ -52,3 +52,47 @@ A structured JSON file that includes:
 ## Why It Matters
 
 This project was created to reduce manual effort and prevent errors in daily operations. It is fully reusable — allowing staff to update their outreach dataset by simply replacing the CSVs and rerunning the script.
+
+
+## Data Disclaimer
+
+All data included in this repository is sample data created for development and demonstration purposes only.  
+No real patient or employee information is included. Any names or details used are entirely fictitious.  
+This project complies with HIPAA and privacy standards.
+
+
+
+## Example Output (JSON)
+
+Below is a simplified example of what the final `customers_grouped.json` structure looks like:
+
+```json
+[
+  {
+    "name": "John Doe",
+    "type": "Responsible Contact",
+    "dueDate": "2024-12-01",
+    "contacts": [
+      {
+        "name": "Jane Doe",
+        "type": "Responsible Contact",
+        "phone": "555-123-4567"
+      }
+    ],
+    "employees": [
+      {
+        "name": "Alice Smith",
+        "phone": "555-987-6543",
+        "shifts": [
+          {
+            "position": "Nurse",
+            "status": "Confirmed",
+            "startTime": "2024-12-01T09:00:00",
+            "endTime": "2024-12-01T12:00:00"
+          }
+        ]
+      }
+    ]
+  }
+]
+```
